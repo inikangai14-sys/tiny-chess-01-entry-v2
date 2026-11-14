@@ -1,0 +1,11 @@
+SPDX-License-Identifier: GPL-3.0-only
+
+Copyright (c) Thomas Ahle and contributors (sunfish)
+Forked from github.com/thomasahle/sunfish, nnue_4k/pst_entry.py
+at commit e396948acbd80cdcbad3dccfb07e878fba9df8f4.
+Modifications copyright (c) 2026 inikangai14-sys.
+
+This program is free software: you can redistribute it and/or modify it
+under the terms of the GNU General Public License as published by the Free
+Software Foundation, version 3 only. See <https://www.gnu.org/licenses/>
+for the full text.
